@@ -1,7 +1,6 @@
 # python-basics
 This repo is for collaborative practice of python programming
-Gang of 6 :
-Deep Learners Gang :
+Deep Learners :
 1. Abhishek Srivastava
 2. Alok Ojha
 3. Gaurav Mishra
